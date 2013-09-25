@@ -1,0 +1,35 @@
+.no-margin-top {
+	margin-top: 0;
+}
+
+.content {
+	margin: 0 auto;
+	padding: 0 2em;
+	max-width: 800px;
+	margin-bottom: 50px;
+}
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.l-panel {
+	background: #eee;
+	border: 1px solid #ccc;
+}
+
+.l-panel-alert {
+	background: #ffc;	
+	border: 1px solid #eeb;
+	color: #c00;
+}
+
+.l-box {
+	padding: 0 .5em;
+	margin-bottom: 2em;
+}
